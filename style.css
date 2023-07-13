@@ -4,7 +4,7 @@
   }
   
   #projects {
-    background-color: #e2edff;
+    background-color: #e03400;
   }
   
   section {
@@ -14,7 +14,7 @@
   /* My Keyboard Section */
   .keyboard-box {
     position: relative;
-    background-color: #0c6efd;
+    background-color: #fdc50c;
     border-radius: 10px;
     height: 500px;
     transform-style: preserve-3d;
@@ -23,7 +23,7 @@
   .keyboard-box::before {
     content: 'MY';
     position: absolute;
-    color: #fff;
+    color: #f32c2c;
     font-size: 6em;
     font-weight: bold;
     font-style: italic;
@@ -41,7 +41,7 @@
   .keyboard-box::after {
     content: 'KEYBOARD';
     position: absolute;
-    color: #fff;
+    color: #f74343;
     font-size: 4.3em;
     font-weight: bold;
     font-style: italic;
@@ -60,7 +60,7 @@
     position: absolute;
     top: 0;
     width: 100%;
-    color: #fff;
+    color: #d41818;
     text-align: center;
     font-size: 2em;
     opacity: 0;
